@@ -56,3 +56,5 @@ function resetTasks() {
 // Expose to window
 window.addTask = addTask;
 window.resetTasks = resetTasks;
+
+console.log('checking');
