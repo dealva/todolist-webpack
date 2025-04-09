@@ -11,7 +11,7 @@
     "webpack": "^5.99.5",
     "webpack-cli": "^6.0.1"
   },
-  "script":{
+  "scripts":{
     "deploy":"gh-pages -d build"
   }
   
